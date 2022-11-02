@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Spilios Evmorfos"
 title_separator          : "-"
 name                     : &name "Spilios Evmorfos"
-description              : &description "PhD student, Machine Learning"
+description              : &description "personal description"
 url                      : https://SpiliosEv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SpiliosEv.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Spilios Evmorfos"
   avatar           : "q_ent.png"
-  bio              : "PhD student, Machine Learning"
+  bio              : "PhD student<br> Machine Learning"
   location         : "New Jersey, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
