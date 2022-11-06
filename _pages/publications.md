@@ -11,6 +11,7 @@ author_profile: true
 {% include base_path %}
 
 <ul class="sparse-list">
+        </li>
         <li>
           <b>Adaptive Discrete Motion Control for Mobile Relay Networks</b> <br/>
           <u>Spilios Evmorfos</u>, Dionysios Kalogerias, and Athina Petropulu. <br/>
