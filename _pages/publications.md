@@ -13,6 +13,11 @@ author_profile: true
 <ul class="sparse-list">
         </li>
         <li>
+          <b>Deep Reinforcement Learning for IRS Phase Shift Design in Spatiotemporally Correlated Environments</b> <br/>
+          <u>Spilios Evmorfos</u>, Athina Petropulu, and H.Vincent Poor. <br/>
+  ICASSP 2023 <i>(submitted)</i><br/>
+        </li>
+        <li>
           <b>Adaptive Discrete Motion Control for Mobile Relay Networks</b> <br/>
           <u>Spilios Evmorfos</u>, Dionysios Kalogerias, and Athina Petropulu. <br/>
           Frontiers in Signal Processing, 2022.<br/>
