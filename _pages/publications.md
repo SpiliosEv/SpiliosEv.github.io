@@ -13,9 +13,9 @@ author_profile: true
 <ul class="sparse-list">
         </li>
         <li>
-          <b>Deep Reinforcement Learning for IRS Phase Shift Design in Spatiotemporally Correlated Environments</b> <br/>
+          <b>Gflownets for Sensor Selection</b> <br/>
           <u>Spilios Evmorfos</u>, Athina Petropulu, and H.Vincent Poor. <br/>
-  ICASSP 2023 <i>(submitted)</i><br/>
+          MLSP, 2023 (best student paper award.<br/>
         </li>
         <li>
           <b>Adaptive Discrete Motion Control for Mobile Relay Networks</b> <br/>
