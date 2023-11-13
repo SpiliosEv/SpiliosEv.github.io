@@ -45,7 +45,7 @@ author_profile: true
           <b>Double Deep Q Learning with Gradient Biasing for Mobile Relay Beamforming Networks</b> <br/>
           <u>Spilios Evmorfos</u>, Konstantinos Diamantaras and Athina Petropulu. <br/>
           Asilomar, 2021.<br/>
-          
+    </li>       
   
    <li>
           <b>Deep Q Learning with Fourier Features for Mobile Relay Beamforming Networks</b> <br/>
@@ -53,7 +53,7 @@ author_profile: true
           SPAWC, 2021.<br/>
         
   
-   
+  </li>
   
    <li>
           <b>Neural Network Architectures for the Detection of SYN Flood Attacks in IoT Systems</b> <br/>
