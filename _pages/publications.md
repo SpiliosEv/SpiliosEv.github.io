@@ -8,14 +8,19 @@ author_profile: true
 
   You can find my articles on my [Google Scholar](https://scholar.google.com/citations?user=ddQSMq4AAAAJ&hl=el)
 
-{% include base_path %}
+
 
 <ul class="sparse-list">
         </li>
         <li>
-          <b>Gflownets for Sensor Selection</b> <br/>
+          <b>Actor-Critic Methods for IRS Design in Correlated Channel Environments: A Closer Look into the Neural Tangent Kernel of the Critic</b> <br/>
           <u>Spilios Evmorfos</u>, Athina Petropulu, and H.Vincent Poor. <br/>
-          MLSP, 2023 (best student paper award.<br/>
+          Transactions on Signal Processing (TSP).<br/>
+        </li>
+        <li>
+          <b>Gflownets for Sensor Selection</b> <br/>
+          <u>Spilios Evmorfos</u>, and Athina Petropulu. <br/>
+          MLSP, 2023 (best student paper award).<br/>
         </li>
         <li>
           <b>Adaptive Discrete Motion Control for Mobile Relay Networks</b> <br/>
