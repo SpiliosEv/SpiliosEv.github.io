@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my updated CV from [here](/files/CV_SPILIOSEV.pdf)
+You can download my updated CV from [here](/files/CV_Nov.pdf)
