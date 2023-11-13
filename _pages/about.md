@@ -11,7 +11,7 @@ redirect_from:
 Hello!
 I am currently a fourth year PhD student at Rutgers, the State University of New Jersey, where I am being advised by Professor [Athina Petropulu](https://scholar.google.com/citations?user=b6qIxrQAAAAJ&hl=el).
 <br>
-<br>My research interests span the areas of Deep Learning (specifically Deep Reinforcement Learning) and Signal Processing.
+<br>My research interests span the areas of Deep Learning (specifically Deep Reinforcement Learning) and Signal Processing and their applications in Wireless Autonomous Systems.
 <br>
 <br>Before my PhD studies, I worked for a couple of years as a Junior Researcher at the Institute of Communication and Computer Systems (ICCS) on topics related to Machine Learning for IoT and sensor networks.
 <br>
