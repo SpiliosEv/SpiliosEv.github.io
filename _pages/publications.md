@@ -15,7 +15,7 @@ author_profile: true
         <li>
           <b>Actor-Critic Methods for IRS Design in Correlated Channel Environments: A Closer Look into the Neural Tangent Kernel of the Critic</b> <br/>
           <u>Spilios Evmorfos</u>, Athina Petropulu, and H.Vincent Poor. <br/>
-          Transactions on Signal Processing (TSP).<br/>
+          Transactions on Signal Processing (TSP), 2023.<br/>
         </li>
         <li>
           <b>Gflownets for Sensor Selection</b> <br/>
